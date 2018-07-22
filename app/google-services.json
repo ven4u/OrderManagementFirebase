@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "306222319832",
+    "firebase_url": "https://ordermanagementfirebase.firebaseio.com",
+    "project_id": "ordermanagementfirebase",
+    "storage_bucket": "ordermanagementfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306222319832:android:4291e160710f3c5a",
+        "android_client_info": {
+          "package_name": "ordermanagement.khushi.com.ordermanagementfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306222319832-65c8mlpjv58cn8hc5ncle88qmm3e1pck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ordermanagement.khushi.com.ordermanagementfirebase",
+            "certificate_hash": "cce263aa8e8fc0a6b6a3aa3dc90208353bc7416f"
+          }
+        },
+        {
+          "client_id": "306222319832-890rtpesavel8bnr9t5ejea0en9nintj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrEdhfK4sW4X6Fwn0dXfU1ylqNUfShyMM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306222319832-890rtpesavel8bnr9t5ejea0en9nintj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
